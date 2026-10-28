@@ -1,0 +1,11 @@
+order_id,order_date,product_name,category,quantity,unit_price,customer_id,customer_name,city
+1001,2026-10-01,Laptop,Electronics,1,45000,C001,Ananya Rao,Bengaluru
+1002,2026-10-02,Headphones,Electronics,2,1500,C002,Rahul Kumar,Hyderabad
+1003,2026-10-03,Chair,Furniture,1,5000,C003,Priya Reddy,Chennai
+1004,2026-10-04,Keyboard,Electronics,3,800,C001,Ananya Rao,Bengaluru
+1005,2026-10-05,Desk,Furniture,2,7000,C004,Arjun Singh,Hyderabad
+1006,2026-10-08,Mouse,Electronics,2,650,C005,Meera Shah,Mumbai
+1007,2026-10-12,Office Chair,Furniture,1,6200,C003,Priya Reddy,Chennai
+1008,2026-10-15,Monitor,Electronics,2,12000,C002,Rahul Kumar,Hyderabad
+1009,2026-10-18,Desk Lamp,Home,4,900,C006,Sana Ali,Pune
+1010,2026-10-20,Laptop Stand,Accessories,2,1800,C005,Meera Shah,Mumbai
